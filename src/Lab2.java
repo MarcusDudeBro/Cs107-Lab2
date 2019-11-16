@@ -1,7 +1,7 @@
 
 /**
 * Lab 2
-* creates a room with the size and obstacles determined when providing extra arguments while running program in terminal.
+* creates a room with size and obstacles of room determined when providing comand line arguments while running in terminal
 * CS107
 * 10/22/19
 * @author Marcus
